@@ -62,10 +62,5 @@ Air France müşteri yorumlarını **pozitif**, **negatif** veya **nötr** olara
 - **Random Forest**, üç sınıflı analizde daha dengeli sonuçlar vermiştir.
 - **Nadir kelimeler**, IDF değerlerine göre belirlenmiş ve analiz edilmiştir.
 
-## Ekler
-- `airfrance_sentiment_analysis.ipynb` → Ana çalışma dosyası  
-- `rapor.docx` → Proje raporu  
-- `grafikler/` → WordCloud ve confusion matrix görselleri
-
 ## Katkı
 Bu proje, **Python ile Veri Bilimi** dersi kapsamında; metin madenciliği, veri ön işleme ve temel sınıflandırma tekniklerini uygulamalı olarak göstermek amacıyla hazırlanmıştır.

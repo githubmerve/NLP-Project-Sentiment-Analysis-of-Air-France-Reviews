@@ -1,6 +1,7 @@
 # Air France Yorumlarında Duygu Analizi (NLP Projesi)
 
-Bu proje, **Air France** havayolu şirketine ait müşteri yorumlarını kullanarak metin madenciliği ve duygu analizi gerçekleştirmektedir. Yorum metinleri temizlenmiş, TF-IDF yöntemi ile sayısal forma dönüştürülmüş ve çeşitli makine öğrenmesi algoritmalarıyla sınıflandırma yapılmıştır.
+## Proje Amacı ve Kapsamı
+Bu proje, **Python ile Veri Bilimi** dersi kapsamında; metin madenciliği, veri ön işleme ve temel sınıflandırma tekniklerini uygulamalı olarak göstermek amacıyla hazırlanmış olup, **Air France** havayolu şirketine ait müşteri yorumları üzerinde duygu analizi gerçekleştirmektedir.
 
 ## Proje Hedefi
 Air France müşteri yorumlarını **pozitif**, **negatif** veya **nötr** olarak sınıflandırmak ve bu sayede havayolu firmasının müşteri memnuniyeti hakkında çıkarımlar yapmak.
@@ -57,10 +58,15 @@ Air France müşteri yorumlarını **pozitif**, **negatif** veya **nötr** olara
 ### Yorum Uzunluğu Dağılımı
 <img src="Yorum Uzunluğu Dağılımı.png" width="300"/>
 
+### Olumlu Yorumların Kategorik Bar Grafiği
+<img src="Olumlu Yorumların Kategorik Bar Grafiği.png" width="300"/>
+
+### Olumsuz Yorumların Kategorik Bar Grafiği
+<img src="Olumsuz Yorumların Kategorik Bar Grafiği.png" width="300"/>
+
+
 ## Sonuçlar
 - **Logistic Regression** modeli ikili sınıflandırmada en yüksek başarıyı göstermiştir.
 - **Random Forest**, üç sınıflı analizde daha dengeli sonuçlar vermiştir.
 - **Nadir kelimeler**, IDF değerlerine göre belirlenmiş ve analiz edilmiştir.
 
-## Katkı
-Bu proje, **Python ile Veri Bilimi** dersi kapsamında; metin madenciliği, veri ön işleme ve temel sınıflandırma tekniklerini uygulamalı olarak göstermek amacıyla hazırlanmıştır.

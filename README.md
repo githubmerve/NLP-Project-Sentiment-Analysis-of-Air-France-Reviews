@@ -6,6 +6,10 @@ Bu proje, **Python ile Veri Bilimi** dersi kapsamında; metin madenciliği, veri
 ## Proje Hedefi
 Air France müşteri yorumlarını **pozitif**, **negatif** veya **nötr** olarak sınıflandırmak ve bu sayede havayolu firmasının müşteri memnuniyeti hakkında çıkarımlar yapmak.
 
+## Detaylı Analiz Raporu
+
+Proje ile ilgili daha ayrıntılı bilgi ve yorumlar için [**AnalizRaporu.docx**](./AnalizRaporu.docx) dosyasını inceleyebilirsiniz.
+
 ## Kullanılan Veri Seti
 - **Kaynak:** [Kaggle - Air France Tripadvisor Reviews Dataset](https://www.kaggle.com/datasets/saharnazyaghoobpoor/air-france-reviews-dataset)
 - **Boyut:** Yaklaşık 7.000 yorum

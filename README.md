@@ -11,7 +11,7 @@ Air France müşteri yorumlarını **pozitif**, **negatif** veya **nötr** olara
 - **Boyut:** Yaklaşık 7.000 yorum
 - **Sütunlar:** `rating`, `title`, `text`, `publishedDate`
 
-## 🛠️ Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 - **Programlama Dili:** Python (Jupyter Notebook)
 - **Kütüphaneler:**
   - pandas  
@@ -22,7 +22,7 @@ Air France müşteri yorumlarını **pozitif**, **negatif** veya **nötr** olara
 
 ## Yöntemler
 
-### 📝 Metin Ön İşleme
+### Metin Ön İşleme
 - Küçük harfe çevirme  
 - Noktalama kaldırma  
 - Stop word temizliği  
